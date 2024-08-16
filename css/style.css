@@ -5551,8 +5551,7 @@ button.bg-dark:focus {
 .d-flex {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
-  display: flex !important;
-margin-left:40px}
+  display: flex !important; }
 
 .d-inline-flex {
   display: -webkit-inline-box !important;
@@ -6646,8 +6645,8 @@ margin-left:40px}
 
 .mb-4,
 .my-4 {
-  margin-bottom: 1.5rem !important; 
-  margin-left : 20px;}
+  margin-bottom: 1.5rem !important; }
+
 .ml-4,
 .mx-4 {
   margin-left: 1.5rem !important; }
@@ -9199,11 +9198,11 @@ textarea.form-control {
   font-size: 42px;
 
   margin:0px ;
-  margin-right: 700px;
+  margin-left: 600px;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
-
-
+.only{
+  margin-left:500px}
 
 
 .heading-section {
@@ -9720,3 +9719,6 @@ textarea.form-control {
     .hi{
       margin-left:40px;
     }
+    a .btn btn-primary py-3 px-3{
+
+    margin-left:40px;}
