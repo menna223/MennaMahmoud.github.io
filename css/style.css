@@ -9199,7 +9199,7 @@ textarea.form-control {
   font-size: 42px;
 
   margin:0px ;
-  margin-left: 700px;
+  margin-left: 600px;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 
@@ -9719,3 +9719,4 @@ textarea.form-control {
     }
     .hi{
       margin-left:40px;
+    }
