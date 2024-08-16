@@ -9197,7 +9197,8 @@ textarea.form-control {
 .big-4 { 
   font-size: 42px;
 
-  margin:0px auto;
+  margin:0px ;
+  margin-right: 500px;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 
@@ -9718,6 +9719,6 @@ textarea.form-control {
     .hi{
       margin-left:40px;
     }
-    a .btn btn-primary py-3 px-3{
+    .text .a{
 
     margin-left:40px;}
