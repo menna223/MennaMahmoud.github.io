@@ -5552,7 +5552,7 @@ button.bg-dark:focus {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
   display: flex !important;
-  margin-left:400px}
+margin-left:40px}
 
 .d-inline-flex {
   display: -webkit-inline-box !important;
@@ -9199,7 +9199,7 @@ textarea.form-control {
   font-size: 42px;
 
   margin:0px ;
-  margin-left: 600px;
+  margin-right: 700px;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 
