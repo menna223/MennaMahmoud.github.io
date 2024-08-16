@@ -9197,9 +9197,9 @@ textarea.form-control {
 .big-4 { 
   font-size: 42px;
   
-  margin-top:0 ;
-  margin-bottom:0 ;
-  margin-right:0 ;
+  margin-top:0 auto;
+  margin-bottom:0 auto ;
+  margin-right:0 auto;
   margin-left:700px;
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 .only{
@@ -9712,11 +9712,11 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
     .title-s
     {
-        margin-left:60px;
+        margin-left:90px;
     }
     .skill-mf{
-      margin-left:60px;
+      margin-left:90px;
     }
     .hi{
-      margin-left:50px;
+      margin-left:90px;
     }
