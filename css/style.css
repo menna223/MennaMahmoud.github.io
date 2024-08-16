@@ -5552,7 +5552,7 @@ button.bg-dark:focus {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
   display: flex !important;
-margin-left:40px}
+  margin-left:400px}
 
 .d-inline-flex {
   display: -webkit-inline-box !important;
@@ -9199,7 +9199,7 @@ textarea.form-control {
   font-size: 42px;
 
   margin:0px ;
-  margin-right: 700px;
+  margin-left: 500px;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 
@@ -9720,6 +9720,3 @@ textarea.form-control {
     .hi{
       margin-left:40px;
     }
-    .counter-wrap ftco-animate d-flex mt-md-3 .btn btn-primary py-3 px-3{
-
-    margin-left:40px;}
