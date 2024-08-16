@@ -9200,7 +9200,7 @@ textarea.form-control {
   margin-top:0 ;
   margin-bottom:0 ;
   margin-right:0 ;
-  margin-left:550px;
+  margin-left:500px;
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 .only{
   margin-left:500px}
@@ -9712,8 +9712,11 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
     .title-s
     {
-        margin-left:10px;
+        margin-left:50px;
     }
     .skill-mf{
-      margin-left:10px;
+      margin-left:50px;
+    }
+    .hi{
+      margin-left:50px;
     }
