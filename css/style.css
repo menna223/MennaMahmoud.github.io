@@ -5551,7 +5551,8 @@ button.bg-dark:focus {
 .d-flex {
   display: -webkit-box !important;
   display: -ms-flexbox !important;
-  display: flex !important; }
+  display: flex !important;
+margin-left:40px}
 
 .d-inline-flex {
   display: -webkit-inline-box !important;
@@ -9198,7 +9199,7 @@ textarea.form-control {
   font-size: 42px;
 
   margin:0px ;
-  margin-right: 500px;
+  margin-right: 700px;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 
@@ -9711,7 +9712,7 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
     .title-s
     {
-        margin-left:10px;
+        margin-left:40px;
     }
     .skill-mf{
       margin-left:40px;
@@ -9719,6 +9720,6 @@ textarea.form-control {
     .hi{
       margin-left:40px;
     }
-    .text .a{
+    .counter-wrap ftco-animate d-flex mt-md-3 .btn btn-primary py-3 px-3{
 
     margin-left:40px;}
