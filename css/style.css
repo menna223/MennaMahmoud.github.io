@@ -9198,11 +9198,9 @@ textarea.form-control {
   font-size: 42px;
 
   margin:0px auto ;
-  margin-left: 500px ;
+  margin-left: 500px auto;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
-.only{
-  margin-left:500px}
 
 
 .heading-section {
@@ -9722,3 +9720,6 @@ textarea.form-control {
     a .btn btn-primary py-3 px-3{
 
     margin-left:40px;}
+    #train{
+      margin-left:500px;
+    }
