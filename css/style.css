@@ -9193,14 +9193,14 @@ textarea.form-control {
     -moz-box-shadow: 0 0 0 0 rgba(255, 189, 57, 0);
     -webkit-box-shadow: 0 0 0 0 rgba(255, 189, 57, 0);
     box-shadow: 0 0 0 0 rgba(255, 189, 57, 0); } }
-
+   
 .big-4 { 
   font-size: 42px;
   
-  margin-top:0 auto;
-  margin-bottom:0 auto;
-  margin-right:0 auto;
-  margin-left:600px;
+  margin-top:0 ;
+  margin-bottom:0 ;
+  margin-right:0 ;
+  margin-left:550px;
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 .only{
   margin-left:500px}
@@ -9710,3 +9710,10 @@ textarea.form-control {
   100% {
     stroke-dasharray: 89, 200;
     stroke-dashoffset: -136px; } }
+    .title-s
+    {
+        margin-left:10px;
+    }
+    .skill-mf{
+      margin-left:10px;
+    }
