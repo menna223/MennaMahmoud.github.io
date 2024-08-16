@@ -9199,7 +9199,7 @@ textarea.form-control {
   font-size: 42px;
 
   margin:0px ;
-  margin-left: 500px;
+  margin-left: 900px;
  
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 
@@ -9712,7 +9712,7 @@ textarea.form-control {
     stroke-dashoffset: -136px; } }
     .title-s
     {
-        margin-left:60px;
+        margin-left:40px;
     }
     .skill-mf{
       margin-left:40px;
@@ -9720,3 +9720,7 @@ textarea.form-control {
     .hi{
       margin-left:40px;
     }
+.about-info .title-s
+{
+  margin-left:40px;
+}
