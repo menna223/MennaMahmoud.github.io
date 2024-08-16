@@ -479,7 +479,7 @@ pre {
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
   margin-right: -15px;
-  margin-left: -11px; }
+  margin-left: -15px; }
 
 .no-gutters {
   margin-right: 0;
@@ -9194,9 +9194,9 @@ textarea.form-control {
     -webkit-box-shadow: 0 0 0 0 rgba(255, 189, 57, 0);
     box-shadow: 0 0 0 0 rgba(255, 189, 57, 0); } }
 
-.big-4 {
+.big-4 { 
   font-size: 42px;
-  margin-left: 500px;
+  margin-left:600px;
   text-align: center;
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
 
