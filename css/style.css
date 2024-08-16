@@ -9199,6 +9199,9 @@ textarea.form-control {
   margin-left:600px;
   margin:0 auto;
   transform: scaleX(1.2); /* Stretch the text by 1.2 times */ }
+.only{
+  margin-left:500px}
+
 
 .heading-section {
   position: relative; }
